@@ -1,6 +1,9 @@
 # Dappazon
 Decentralized amazon clone
 
+## Live Link
+[Dappazon Live](https://dappazon.on.fleek.co/)
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
